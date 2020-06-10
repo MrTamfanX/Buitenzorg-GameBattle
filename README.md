@@ -23,7 +23,7 @@ Thanks My Friend's Buitenzorg Syndicate.io And MrTamfanX Cyber Team
 
 
 
-
+# Buitenzorg-GameBattle
 Game Battleship, Game yang paling seru di antara game lain, Dan ini juga bisa menghilangkan rasa bosan anda. Cukup isi nama kamu dan Musuhmu  Dan ketik START atau start untuk memulai permainan.
 
 Ketikan perintah dibawah ini dulu jika kamu ingin bermain :
