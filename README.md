@@ -9,6 +9,8 @@ $pkg install perl make clang openssl
 
 $cpan install Net::SSLeay::Handle [ Sudo untuk Linux - Manual untuk Termux ]
 
+$cpan install Game::Battleship
+
 Continue Clone :
 
 $git clone https://github.com/MrTamfanX/Buitenzorg-GameBattle
@@ -31,6 +33,8 @@ Ketikan perintah dibawah ini dulu jika kamu ingin bermain :
 $pkg install perl make clang openssl
 
 $cpan install Net::SSLeay::Handle [ Sudo untuk Linux - Manual untuk Termux ]
+
+$cpan install Game::Battleship
 
 Lanjut Ke Clone :
 
